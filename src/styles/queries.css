@@ -1,0 +1,15 @@
+@media screen and (min-width: 600px) {
+  .color_box {
+    width: 150px;
+    height: 150px;
+  }
+
+  .color-options {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .color-button {
+    width: 80px;
+    height: 80px;
+  }
+}
